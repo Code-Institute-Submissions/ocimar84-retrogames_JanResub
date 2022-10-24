@@ -15,3 +15,7 @@
 .align-center {
     align-items: center;
 }
+
+.margin-x-auto {
+    margin: 0 auto;
+}
