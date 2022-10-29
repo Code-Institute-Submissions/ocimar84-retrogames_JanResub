@@ -68,17 +68,17 @@ h5 {
 }
 
 #menu-categories ul li a {
-    color: gray;
+    color: red;
     text-decoration: none;
 }
 
 #menu-categories ul li.active {
     background: #e0e0e0;
-    border-bottom: solid 1px blue;
+    border-bottom: solid 1px red;
 }
 
 #menu-categories ul li.active a {
-    color: blue;
+    color: red;
 }
 
 .container {
