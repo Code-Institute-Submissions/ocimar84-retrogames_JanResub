@@ -1,108 +1,159 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Retro Games
 
-Welcome ocimar84,
+Retro games are an  page dedicated to people who love old games and are interested in buying something safely without leaving home.
+ 
+In addition to having an environment all dedicated in 8 bits, feeling like taking a time machine to go back to the 80's and 90's where the console war between Sega, Nintendo and PlayStation.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+![Responsice Mockup](https://github.com/ocimar84/retrogames/blob/main/assets/images/display.png?raw=true)
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## Repository
+- https://ocimar84.github.io/retrogames/
 
-`python3 -m http.server`
 
-A blue button should appear to click: _Make Public_,
+## Author
 
-Another blue button should appear to click: _Open Browser_.
+Ocimar Felipe Costa
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Features 
 
-A blue button should appear to click: _Make Public_,
+- A site for lovers of old consoles developed for users to feel in the pixel era.
 
-Another blue button should appear to click: _Open Browser_.
+### Existing Features
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- __Navigation Bar__
 
-To log into the Heroku toolbelt CLI:
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+- Featured on all five pages, to help the navigation between the pages, it has the logo part of “About us, consoles, contact, search and cart".
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+- Where it is possible for the user to navigate between different tools.
 
-------
 
-## Release History
+![Nav Bar](https://github.com/ocimar84/retrogames/blob/main/assets/images/NavigationBar1.png?raw=true)
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+- __The landing page image__
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+  - Illustrative image used to separate the header from the body of the site.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+![Landing Page](https://github.com/ocimar84/retrogames/blob/main/assets/images/image%20header.png?raw=true)
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+- __About Us__
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+  - A brief description of the site focusing on the site's function, on the left side is a video showing the best commercials for games from the 90's to recall nostalgia in the golden age of consoles.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+![Club Ethos](https://github.com/ocimar84/retrogames/blob/main/assets/images/About%20us%20+%20youtube.png?raw=true)
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+- __Meetup Times section__
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
+  - This section will be updated as these times change to keep the user up to date. 
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+- __The Footer__ 
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+  - The footer section includes links to the relevant social media sites for retro games. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+![Footer](https://github.com/ocimar84/retrogames/blob/main/assets/images/Footer%20.png?raw=true)
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+- __Gallery__
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+  - The image gallery has 3 tabs each defined by generation of the console that serves as Bits in the upper right corner of the image, the lower part has the console manufacturer and the console name below.
+  - The function of the gallery is to make it easy for users to choose according to their personal choice.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+![Gallery](https://github.com/ocimar84/retrogames/blob/main/assets/images/Gallery.png?raw=true)
 
-------
+- __Contact__
 
-## FAQ about the uptime script
+  - This page is responsible for so that users can send their suggestions, questions or request details about our site.
+  - It consists of 4 tabs, namely:
+(Name) Username
+(Email) Email to return the contact.
+(Platform) Which platform the user more information.
+(Subject) Where the user can specify what additional information he is interested in.
 
-**Why have you added this script?**
+![Contact](https://github.com/ocimar84/retrogames/blob/main/assets/images/Contact%20Us%20.png?raw=true)
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+- In the platform tab there are tabs for choices, they are Nintendo, Sega and Playstation where it is easier for the user to select which platform he prefers.
 
-**How will this affect me?**
+![Plataform](https://github.com/ocimar84/retrogames/blob/main/assets/images/Select%20tabs.png?raw=true)
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+- Once submitted, all information is validated to the site manager, so that he can then contact the user.
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+![Submitted](https://github.com/ocimar84/retrogames/blob/main/assets/images/submitted.png?raw=true)
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+- Incorporation of the map to show where our store is, I used the location of Code Institute as a reference.
 
-**So….?**
+![MAP](https://github.com/ocimar84/retrogames/blob/main/assets/images/Map.png?raw=true)
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+## Testing 
 
-**Can I opt out?**
+All site tools have been tested the site is working normally, I changed the images to lighter files to improve the performance of the site.
+Care was taken with each tab to intuit the user where he needs to go and how the site works.
+Site was thought to improve the user experience, a clean site and only functional options.
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+### Validator Testing 
 
-**Anything more?**
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://github.com/ocimar84/retrogames/blob/main/assets/images/Validator.png)
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+- Lighthouse
+![lighthouse](https://github.com/ocimar84/retrogames/blob/main/assets/images/lighthouse.png?raw=true) 
 
----
+### Unfixed Bugs
 
-Happy coding!
+You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+
+## Deployment
+
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here - https://ocimar84.github.io/retrogames/index.html 
+
+
+## Credits 
+
+In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+
+You can break the credits section up into Content and Media, depending on what you have included in your project. 
+
+### Content 
+
+- The text for the Home page was taken from Wikipedia Article A
+- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
+### Media
+
+- The photos used on the home and sign up page are from This Open Source site
+- The images used for the gallery page were taken from this other open source site
+
+
+Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
+
+## Other General Project Advice
+
+Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
+
+- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
+  - Make sure to keep the messages in the imperative mood 
+
+- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
+  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
+
+- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
+  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
+  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
+  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
+
+Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
