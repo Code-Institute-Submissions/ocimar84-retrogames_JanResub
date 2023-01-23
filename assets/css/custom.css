@@ -42,7 +42,7 @@ h5 {
 }
 
 #logo {
-    color: red;
+    color: #A10000;
     font-size: 10px;
     text-decoration: none;
 }
@@ -99,17 +99,17 @@ h5 {
 }
 
 #menu-categories ul li a {
-    color: red;
+    color: #A10000;
     text-decoration: none;
 }
 
 #menu-categories ul li.active {
     background: #e0e0e0;
-    border-bottom: solid 1px red;
+    border-bottom: solid 1px #A10000;
 }
 
 #menu-categories ul li.active a {
-    color: red;
+    color: #A10000;
 }
 
 .container {
