@@ -68,7 +68,7 @@ https://user-images.githubusercontent.com/79640465/215204608-356e624c-6518-4b5a-
 
 ![Gallery](https://github.com/ocimar84/retrogames/blob/main/assets/images/Gallery.png?raw=true)
 
-- __Contact__
+- __Contact__Aboutus
 
   - This page is responsible for so that users can send their suggestions, questions or request details about our site.
   - It consists of 4 tabs, namely:
