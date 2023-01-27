@@ -109,6 +109,18 @@ Link for Manual Testing https://docs.google.com/spreadsheets/d/1BRe59yXoAiXoByj9
  
 ![lighthouse1](https://user-images.githubusercontent.com/79640465/215205679-8d711f64-45cd-4dd4-bc28-6a84c46f9748.png)
 
+- Colorcheck
+
+![color check](https://user-images.githubusercontent.com/79640465/215205987-ed454d07-506f-4cfc-9648-46d1d3305fd9.png)
+
+- Future Features
+
+Custom 404 page so if user is still in domain it looks like my site.
+Games Section that is much like console section to let user know what we are interested in trading.
+Thank you Page so contact form submission is tied to look and feel of rest of site.
+
+
+
 ### Unfixed Bugs
 
 After carrying out several tests I did not notice any anomaly on the site.
