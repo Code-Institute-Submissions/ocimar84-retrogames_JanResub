@@ -79,6 +79,9 @@ https://user-images.githubusercontent.com/79640465/215204608-356e624c-6518-4b5a-
 
 - Once submitted, all information is validated to the site manager, so that he can then contact the user.
 
+![select-tabs](https://user-images.githubusercontent.com/79640465/215207270-ae4abbc4-0530-450e-8487-db11233e8d88.png)
+- Select tabs about certain console.
+
 ![Submitted](https://github.com/ocimar84/retrogames/blob/main/assets/images/submitted.png?raw=true)
 
 - Incorporation of the map to show where our store is, I used the location of Code Institute as a reference.
