@@ -52,7 +52,7 @@ https://user-images.githubusercontent.com/79640465/215204608-356e624c-6518-4b5a-
   - The footer section includes links to the relevant social media sites for retro games. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/ocimar84/retrogames/blob/main/assets/images/Footer%20.png?raw=true)
+<img width="1351" alt="footer" src="https://user-images.githubusercontent.com/79640465/215204921-75c035a5-b0cc-409b-9a11-bdbd9206bdc2.png">
 
 - __Gallery__
 
