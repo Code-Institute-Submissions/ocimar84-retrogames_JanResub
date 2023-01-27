@@ -90,6 +90,8 @@ Care was taken with each tab to intuit the user where he needs to go and how the
 Site was thought to improve the user experience, a clean site and only functional options.
 
 
+Link for Manual Testing https://docs.google.com/spreadsheets/d/1BRe59yXoAiXoByj9oG4o9DqCluQ6muBhKcT6mllKPd0/edit?usp=sharing
+
 ### Validator Testing 
 
 - HTML
