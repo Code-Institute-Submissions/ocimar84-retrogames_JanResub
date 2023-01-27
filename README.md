@@ -21,6 +21,13 @@ Ocimar Felipe Costa
 
 - A site for lovers of old consoles developed for users to feel in the pixel era.
 
+### Web draft
+
+![web draft template](https://user-images.githubusercontent.com/79640465/215209953-bb1613e7-aa34-4a88-8f90-58a3c27eedc6.png)
+
+![web draft template](https://user-images.githubusercontent.com/79640465/215210017-8557855d-1a67-48f7-b09c-870fc91cd521.png)
+
+
 ### Existing Features
 
 - __Navigation Bar__
