@@ -37,6 +37,8 @@ Ocimar Felipe Costa
 
   - Illustrative image used to separate the header from the body of the site.
 
+<img width="1434" alt="landpage" src="https://user-images.githubusercontent.com/79640465/215203727-1d3e0c39-5f34-463f-94b4-77a352febabd.png">
+
 ![Landing Page](https://github.com/ocimar84/retrogames/blob/main/assets/images/image%20header.png?raw=true)
 
 - __About Us__
