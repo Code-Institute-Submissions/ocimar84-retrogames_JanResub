@@ -51,7 +51,6 @@ Ocimar Felipe Costa
   - A brief description of the site focusing on the site's function, on the left side is a video showing the best commercials for games from the 90's to recall nostalgia in the golden age of consoles.
 
 
-
 https://user-images.githubusercontent.com/79640465/215204608-356e624c-6518-4b5a-83a8-aa366d5e624f.mov
 
 - __The Footer__ 
@@ -68,7 +67,7 @@ https://user-images.githubusercontent.com/79640465/215204608-356e624c-6518-4b5a-
 
 ![Gallery](https://github.com/ocimar84/retrogames/blob/main/assets/images/Gallery.png?raw=true)
 
-- __Contact__Aboutus
+- __Contact__
 
   - This page is responsible for so that users can send their suggestions, questions or request details about our site.
   - It consists of 4 tabs, namely:
