@@ -70,11 +70,12 @@ https://user-images.githubusercontent.com/79640465/215204608-356e624c-6518-4b5a-
 (Platform) Which platform the user more information.
 (Subject) Where the user can specify what additional information he is interested in.
 
-![Contact](https://github.com/ocimar84/retrogames/blob/main/assets/images/Contact%20Us%20.png?raw=true)
+<img width="1426" alt="maps+contactus" src="https://user-images.githubusercontent.com/79640465/215205314-f06ac616-70a9-46f4-b4af-b475bbbf5210.png">
+
 
 - In the platform tab there are tabs for choices, they are Nintendo, Sega and Playstation where it is easier for the user to select which platform he prefers.
 
-![Plataform](https://github.com/ocimar84/retrogames/blob/main/assets/images/Select%20tabs.png?raw=true)
+![email](https://user-images.githubusercontent.com/79640465/215205422-83dd7ffd-8b9a-4010-87c4-6f7294da1d76.png)
 
 - Once submitted, all information is validated to the site manager, so that he can then contact the user.
 
