@@ -98,12 +98,16 @@ Link for Manual Testing https://docs.google.com/spreadsheets/d/1BRe59yXoAiXoByj9
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://github.com/ocimar84/retrogames/blob/main/assets/images/Validator.png?raw=true)
+![HTML check ](https://user-images.githubusercontent.com/79640465/215205623-7e2c94d6-17f7-4588-80ef-39d3f4b2b3fd.png)
+
 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+![css check](https://user-images.githubusercontent.com/79640465/215205651-6604fb5a-f198-4b13-acc2-55f30601a74d.png)
 
 - Lighthouse
-![lighthouse](https://github.com/ocimar84/retrogames/blob/main/assets/images/lighthouse.png?raw=true) 
+ 
+![lighthouse1](https://user-images.githubusercontent.com/79640465/215205679-8d711f64-45cd-4dd4-bc28-6a84c46f9748.png)
 
 ### Unfixed Bugs
 
