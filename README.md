@@ -39,14 +39,13 @@ Ocimar Felipe Costa
 
 <img width="1434" alt="landpage" src="https://user-images.githubusercontent.com/79640465/215203727-1d3e0c39-5f34-463f-94b4-77a352febabd.png">
 
-![Landing Page](https://github.com/ocimar84/retrogames/blob/main/assets/images/image%20header.png?raw=true)
-
 - __About Us__
 
   - A brief description of the site focusing on the site's function, on the left side is a video showing the best commercials for games from the 90's to recall nostalgia in the golden age of consoles.
 
-![Club Ethos](https://github.com/ocimar84/retrogames/blob/main/assets/images/About%20us%20+%20youtube.png?raw=true)
 
+
+https://user-images.githubusercontent.com/79640465/215204608-356e624c-6518-4b5a-83a8-aa366d5e624f.mov
 
 - __The Footer__ 
 
