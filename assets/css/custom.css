@@ -43,6 +43,7 @@ h5 {
     font-family: 'Silkscreen', cursive;
 }
 
+/* Logo Styles */
 #logo {
     color: #A10000;
     font-size: 10px;
@@ -54,6 +55,7 @@ h5 {
     color: gray;
 }
 
+/* main Styles */
 #main-menu {
     padding: 2px 6px;
     border-bottom: solid 1px #e0e0e0;
@@ -126,6 +128,7 @@ h5 {
     height: 250px;
 }
 
+/* product Styles */
 .product h1 {
     font-size: 50px;
     font-weight: 600;
