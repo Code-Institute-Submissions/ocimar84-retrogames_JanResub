@@ -30,6 +30,13 @@ Ocimar Felipe Costa
 
 ### Existing Features
 
+- __Favicon__
+
+- Add favicon in the bar navegation.
+
+![favicon ](https://user-images.githubusercontent.com/79640465/215325400-0330684a-b67c-437d-be96-ebf59653b4a3.png)
+
+
 - __Navigation Bar__
 
 
